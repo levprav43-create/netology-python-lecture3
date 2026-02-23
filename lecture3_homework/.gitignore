@@ -1,0 +1,33 @@
+# Лог файлы
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Виртуальное окружение
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Системные файлы
+Desktop.ini
+.DS_Store
+Thumbs.db
+
+# ICO файлы
+*.ico
+
+# Временные файлы
+*.tmp
+*.temp
