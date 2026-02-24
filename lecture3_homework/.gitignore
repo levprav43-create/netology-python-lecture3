@@ -31,3 +31,13 @@ Thumbs.db
 # Временные файлы
 *.tmp
 *.temp
+
+# Лог-файлы
+*.log
+
+# Системные файлы Windows
+Desktop.ini
+*.ico
+
+# Временные файлы
+*.tmp
