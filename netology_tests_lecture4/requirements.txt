@@ -1,0 +1,5 @@
+pytest>=7.4.0
+requests>=2.31.0
+selenium>=4.15.0
+python-dotenv>=1.0.0
+pytest-parametrize>=0.1.0
